@@ -1,5 +1,5 @@
-                                PROJECT-REACT
+                                 ASSSIGNMENT-1 REACT
 
- This is the simple google page which i have made making it more realistic like real google search page day by day adding more functionality later on....
+Create a page with a textarea, where a user writes their introduction/bio in mixed case.   
 
-                                  Thank You
+There will be a button on click of which the bio will change to uppercase and show on a paragraph element below the text area.
