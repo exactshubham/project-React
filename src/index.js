@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import RegistrationForm from './Form.js'
+import Counter from './counter';
 
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+
+ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RegistrationForm />
+    <Counter/>
   </React.StrictMode>
 );
 
